@@ -1,0 +1,10 @@
+
+[
+    {
+        "name":"M20",
+        "price":10000,
+        "rating":4.6,
+        "stock":true,
+        "company":"SAMSUNG"
+    }
+]
